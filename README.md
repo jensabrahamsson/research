@@ -1,6 +1,6 @@
 # Research: Jens Abrahamsson
 
-I am an independent researcher and developer based in Sweden. I worked as a professional systems developer until 2015. I have no institutional affiliation. My current research is empirical and computational. It looks at how newly launched tokens behave on-chain, how to detect fraud transparently, and how to evaluate predictive systems honestly. I build all of it with a multi-LLM agentic software-engineering workflow.
+I am an independent researcher and developer based in Sweden. I worked as a professional systems developer until 2015 and have since worked in management-oriented roles. I have no institutional affiliation. My current research is empirical and computational. It looks at how newly launched tokens behave on-chain, how to detect fraud transparently, and how to evaluate predictive systems honestly. I build all of it with a multi-LLM agentic software-engineering workflow.
 
 This repository describes the research. It contains no source code. The underlying systems are private and partly commercial. The research outputs listed below are intended to be public and non-commercial.
 
